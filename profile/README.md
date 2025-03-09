@@ -8,3 +8,11 @@ MCP4Go provides a comprehensive set of Go libraries and tools designed to simpli
 - Provide high-performance, easy-to-use Go implementations of the MCP protocol
 - Build rich examples and documentation to accelerate application development
 - Create an active community of Go developers working with MCP
+
+## Core Features
+
+- Complete Go implementation of the MCP protocol
+- Abstract layer for resource definitions
+- Pluggable protocol extensions
+- Advanced APIs and utility tools
+- Comprehensive examples and documentation
